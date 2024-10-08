@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.banner {
+  height: 500px;
+  width: 100%;
+  background-color: gray;
+}
+.service {
+  height: 500px;
+  width: 100%;
+  background-color: green;
+}
+.footer {
+  height: 500px;
+  width: 100%;
+  background-color: gray;
+}
